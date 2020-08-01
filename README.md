@@ -10,9 +10,9 @@ A Jupyter notebook for math syntax in various languages and tools
 <a id="contents"></a>
 ## Contents
 
-[Notes](notebooks/math-programming-cheat-sheet-notes.ipynb)
+[Notes](https://nbviewer.jupyter.org/github/thinkulum/math-programming-cheat-sheet/blob/master/notebooks/math-programming-cheat-sheet-notes.ipynb)
 
-[Prealgebra](notebooks/math-programming-cheat-sheet-prealgebra.ipynb)
+[Prealgebra](https://nbviewer.jupyter.org/github/thinkulum/math-programming-cheat-sheet/blob/masternotebooks/math-programming-cheat-sheet-prealgebra.ipynb)
 
 <a id="author"></a>
 ## Author
